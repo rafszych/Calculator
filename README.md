@@ -13,4 +13,6 @@ To create jar and run it from the command line:
 3. the jar file has been created in the target folder
 4. run it using command: java -jar target/Calculator-0.0.1-SNAPSHOT.jar exampleOperations.txt
 
-To run calculator with other operations either change the exampleOperations.txt file in Calculator folder or change the argument for command above to direct to other file.
+To run calculator with other operations either change the exampleOperations.txt file in resources folder or change the argument for command above to direct to other file.
+
+Running calculator with new set of operations would require rebuilding (step 2.) when using calculator by running jar file.
