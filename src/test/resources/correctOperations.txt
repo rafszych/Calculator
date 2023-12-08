@@ -1,0 +1,6 @@
+multiply 24.3
+add 71
+subtract 29
+add 842
+divide 971.2
+apply 2

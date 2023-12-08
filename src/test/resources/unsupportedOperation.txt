@@ -1,0 +1,4 @@
+add 52
+subtract 21
+power 3
+apply 7
